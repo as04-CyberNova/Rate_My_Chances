@@ -136,7 +136,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 This project is licensed under a custom attribution license. 
 
 **Requirement**: If you fork, deploy, redistribute, or use any substantial portion of this project, you **must explicitly credit the original author**:
-- **Author**: `as04-CyberNova`
+- **Author**: `Abhyudaya Sinha`
 - **Original Repository**: [https://github.com/as04-CyberNova/Rate_My_Chances](https://github.com/as04-CyberNova/Rate_My_Chances)
 
 See the full [LICENSE](./LICENSE) file for complete terms.
